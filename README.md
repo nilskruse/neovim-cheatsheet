@@ -9,7 +9,7 @@ Just a cheatsheet for my neovim config
 | gr | Show references |
 | gi | Goto implementation |
 | K | Hover |
-| C-k | Signature help |
+| Ctrl-k | Signature help |
 | space wa | Add workspace folder |
 | space wr | Remove workspace folder |
 | space wl | List workspace folders |
@@ -26,3 +26,12 @@ Just a cheatsheet for my neovim config
 | space fb | Buffers |
 | space fh | Search help |
 
+# Autocompletion
+| Key      | Function |
+| ----------- | ----------- |
+| Ctrl-d | Scroll down docs |
+| Ctrl-f | Scroll up docs |
+| Ctrl-space | Complete |
+| Enter | Confirm (duh) |
+| Tab | Scroll down suggestion (duh) |
+| Shift-Tab | Scroll up suggestion (duh) |
