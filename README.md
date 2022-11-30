@@ -9,7 +9,7 @@ Just a cheatsheet for my neovim config
 | gr | Show references |
 | gi | Goto implementation |
 | K | Hover |
-| <C-k> | Signature help |
+| C-k | Signature help |
 | <space>wa | Add workspace folder |
 | <space>wr | Remove workspace folder |
 | <space>wl | List workspace folders |
