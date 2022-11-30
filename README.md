@@ -18,3 +18,11 @@ Just a cheatsheet for my neovim config
 | space ca | Code action |
 | space f | Format |
 
+# Telescope
+| Key      | Function |
+| ----------- | ----------- |
+| space ff | Find files |
+| space fg | Live grep |
+| space fb | Buffers |
+| space fh | Search help |
+
